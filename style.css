@@ -1,0 +1,118 @@
+body{
+    font-family: 'Overpass', sans-serif;
+    margin: 0px;
+    
+}
+h1,h2{
+    font-size: 55px;
+}
+section{
+    padding: 50px;
+    height: 500px;
+}
+.sagorcolor{
+    color:coral;
+    
+}
+.half-width{
+    float: left;
+    width: 45%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: white;
+}
+.half-width img{
+    width: 100%;
+}
+#ex{
+margin: 30px;
+padding: 50px;
+}
+.edu{
+    float: left;
+    text-align: center;
+    margin: 50px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 50px gray;
+    width: 25%;
+    height: 250px;
+    border-radius: 20px;
+   
+    
+}
+.al{
+    
+    margin-left: 40%;
+    font-size: 3rem;
+}
+#stick1{
+    
+     border-left: 8px solid;
+     border-image: linear-gradient(lightblue,blue);
+     border-image-slice: 1;
+}
+#stick2{
+    
+    border-left: 8px solid;
+    border-image: linear-gradient(orange,tomato);
+     border-image-slice: 1;
+    
+}
+#stick3{
+ 
+    border-left: 8px solid;
+    border-image: linear-gradient(pink,red);
+     border-image-slice: 1;
+}
+.last{
+width: 40%;
+margin: 60px;
+box-shadow: 20px 20px 40px black;
+height: 300px;
+border-radius: 30px;
+text-align: center;
+border-image:linear-gradient(yellow,blue); 
+border-image-slice: 1;
+
+border-right: 8px solid;
+
+}
+.fi{
+    text-align: center;
+}
+.fi a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+.fi a:hover{
+    background-color:darksalmon
+}
+.last:hover{
+    background-color: cornsilk;
+}
+.top-banner{
+    background-image: url("images/d-bg\ \(3\).png");
+    background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url("images/g-bg\ \(4\).png");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.last-banner{
+    background-image: url("images/s-bg\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.bu{
+    background-color: coral;
+    height: 30px;
+    width: 70px;
+}
+.ajaira{
+    color:darksalmon;
+}
+p{
+    color:lightslategray;
+}
